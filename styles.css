@@ -21,6 +21,10 @@ h1 {
     text-align: center;
     color: #333;
 }
+h1 {
+    text-align: center;
+    color: red;
+}
 
 #timer {
     text-align: center;
